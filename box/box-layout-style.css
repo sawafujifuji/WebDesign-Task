@@ -6,12 +6,13 @@ h1{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    margin: 10px;
 }
 .item{
     width: 25%;
     text-align: center;
     background-color: aquamarine;
-    margin: 10px;
+    margin: 0 auto;
     
 }
 h2{

@@ -18,6 +18,7 @@ h1{
 h2{
     width: 90%;
     text-align: center;
+    margin: 0 auto;
 }
 a{
     display: block;
@@ -26,6 +27,7 @@ a{
 }
 p{
     width: 90%;
+    margin: 0 auto;
 }
 .gazou{
     width: 200px;

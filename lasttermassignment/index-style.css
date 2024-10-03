@@ -1,0 +1,23 @@
+h1{
+    margin: 50px;
+    font-size: 100px;
+    text-align: center;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+}
+body{
+    background-image: url("img/スクリーンショット 2024-09-08 162605.png");
+    background-size: cover;
+  }
+  a{
+    margin: 10px;
+    font-size: 20px;
+  }
+  a:link {
+    color: #ff0000;
+}

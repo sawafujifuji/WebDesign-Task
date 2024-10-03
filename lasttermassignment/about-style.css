@@ -1,0 +1,10 @@
+.big{
+    font-size: larger;
+    color: red;
+}
+body{
+    margin: auto;
+}
+div{
+    font-size: 30px;
+}
